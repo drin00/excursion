@@ -1,0 +1,21 @@
+body{
+  background-color: black;
+}
+h1, p{
+  font-family: Verdana;
+  text-align: center;
+  color: White;
+}
+video,img{
+  display: block;
+  margin: 0 auto;
+}
+.main-header{
+  font-weight: normal;
+  font-size: 50px;
+  color: White;
+}
+.link{
+  color: Aquamarine;
+  font-size: 16px;
+}
